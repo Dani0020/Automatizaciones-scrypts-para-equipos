@@ -17,13 +17,6 @@ El script realiza las siguientes tareas:
     * Ejecuta el script con el siguiente comando:
         
         .\Tu-Nombre-De-Script.ps1
-        
-
-## Próximos Pasos (Opcional)
-Este es el primer paso. El objetivo es ir añadiendo más funcionalidades, como:
-- [ ] Mostrar información sobre el espacio en disco.
-- [ ] Monitorizar servicios específicos.
-- [ ] Generar un informe en un archivo de texto o HTML.
 
 ## Autor
 - Daniel
